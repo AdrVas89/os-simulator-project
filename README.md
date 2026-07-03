@@ -56,19 +56,12 @@ The paging part supports:
 ## Project Structure
 
 ```text
-electronic-voting-system/
+os-simulator-project/
 │
-├── css/
-│   └── style.css
-├── add_candidate.php
-├── admin_dashboard.php
-├── config.php
-├── create_election.php
-├── database.sql
-├── index.php
-├── login.php
-├── logout.php
-├── register.php
-├── results.php
-├── vote.php
-└── voter_dashboard.php
+├── main.py
+├── scheduler.py
+├── memory.py
+├── test_cases.py
+├── README.md
+
+
